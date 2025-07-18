@@ -95,8 +95,9 @@ Before responding:
 ## **License & Usage**  
 This framework is **proprietary and closed-source**. Unauthorized modification or misuse violates operational security.  
 
-> **Last Updated:** 2025-07-19  
-> **Version:** 2.1 (Strict Enforcement)  
+> **Last Updated:** 2025-07-18  
+> **Version:** 2.1 (Strict Enforcement)
+> **Author:** AJ Batac  
 ```  
 
 ### **Key Features of This README:**  
